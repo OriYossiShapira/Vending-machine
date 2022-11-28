@@ -1,0 +1,23 @@
+{"productList":[
+  {
+    "productName": "cola",
+     "price": 12,
+    "supp": 5
+  },
+  {
+    "productName":"sprite",
+    "price":12,
+    "supp":5
+  },
+  {
+    "productName":"fanta",
+    "price":12,
+    "supp":5
+  },
+  {
+    "productName":"water",
+    "price":8,
+    "supp":5
+  }
+]}
+
